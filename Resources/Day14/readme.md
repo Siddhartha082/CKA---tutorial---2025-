@@ -1,8 +1,6 @@
 # Day 14/40 - Taints and Tolerations in Kubernetes 📘🚀
 
-## Check out the video below for Day14 👇
 
-[![Day14/40 - Taints and Tolerations in Kubernetes](https://img.youtube.com/vi/nwoS2tK2s6Q/sddefault.jpg)](https://youtu.be/nwoS2tK2s6Q)
 
 # Taints and Tolerations in Kubernetes 🚧📜
 
