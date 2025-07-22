@@ -1,9 +1,5 @@
 # Day 15/40 - Kubernetes node affinity explained
 
-## Check out the video below for Day12 👇
-
-[![Day15/40 - Kubernetes node affinity explained](https://img.youtube.com/vi/5vimzBRnoDk/sddefault.jpg)](https://youtu.be/5vimzBRnoDk)
-
 
 ## Beyond Node Selectors: Introducing Affinity 🚀
 
