@@ -1,9 +1,5 @@
 # Day 19/40 - kubernetes configmap and secret
 
-## Check out the video below for Day19 👇
-
-[![Day 19/40 - kubernetes configmap and secret](https://img.youtube.com/vi/Q9fHJLSyd7Q/sddefault.jpg)](https://youtu.be/Q9fHJLSyd7Q)
-
 ### What is a config map in Kubernetes?
 
 - When your manifest grows it becomes difficult to manage multiple env vars
