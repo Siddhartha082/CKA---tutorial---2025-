@@ -1,9 +1,6 @@
 # Day 10/40 - Kubernetes Namespace Explained - CKA Full Course 2024
 
 
-## Check out the video below for Day10 👇
-
-[![Day10/40 - Kubernetes Namespace Explained - CKA Full Course 2024](https://img.youtube.com/vi/yVLXIydlU_0/sddefault.jpg)](https://youtu.be/yVLXIydlU_0)
 
 ### What is a Namespace in Kubernetes
 
