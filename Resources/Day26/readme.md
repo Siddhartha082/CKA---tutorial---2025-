@@ -1,8 +1,6 @@
 # Day 26/40 - Kubernetes Network Policies Explained
 
-## Check out the video below for Day26 👇
 
-[![Day 26/40 - Kubernetes Network Policies Explained ](https://img.youtube.com/vi/eVtnevr3Rao/sddefault.jpg)](https://youtu.be/eVtnevr3Rao)
 
 ### What is a network policy
 
