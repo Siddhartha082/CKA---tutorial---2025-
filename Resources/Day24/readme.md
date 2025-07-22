@@ -1,8 +1,5 @@
 # Day 24/40 - Kubernetes RBAC Continued - Clusterrole and Clusterrole Binding
 
-## Check out the video below for Day24 👇
-
-[![Day Day 23/40 - Kubernetes RBAC Continued - Clusterrole and Clusterrole Binding ](https://img.youtube.com/vi/DswQe7shSa4/sddefault.jpg)](https://youtu.be/DswQe7shSa4)
 
 ![image](https://github.com/user-attachments/assets/50076dc7-1168-4480-88c4-2d923aaa60f3)
 
