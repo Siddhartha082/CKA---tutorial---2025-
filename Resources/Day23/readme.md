@@ -1,9 +1,5 @@
 # Day 23/40 - Kubernetes RBAC Explained - Role Based Access Control Kubernetes
 
-## Check out the video below for Day23 👇
-
-[![Day Day 23/40 - Kubernetes RBAC Explained - Role Based Access Control Kubernetes ](https://img.youtube.com/vi/uGcDt7iNFkE/sddefault.jpg)](https://youtu.be/uGcDt7iNFkE)
-
 
 ### Commands used in the demo
 
