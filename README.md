@@ -1,5 +1,7 @@
 # Certified Kubernetes Administrator(CKA) 2025
 
+<img width="1210" height="774" alt="image" src="https://github.com/user-attachments/assets/7b88ff33-a4c4-43f7-8ce4-f094f074883f" />
+
 
 ### Day0: Intro to the series
 - Course Introduction
