@@ -3,7 +3,6 @@
 
 ## Check out the video below for Day3 👇
 
-[![Day 2/40 - How To Dockerize a Project - CKA Full Course 2024](https://img.youtube.com/vi/ajetvJmBvFo/sddefault.jpg)](https://youtu.be/ajetvJmBvFo)
 
 # Pre-requisites ( If you have followed Day2 video and/or already have Docker Setup, then skip this step)
 
