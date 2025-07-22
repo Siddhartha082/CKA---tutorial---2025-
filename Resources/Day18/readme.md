@@ -1,9 +1,5 @@
 # Day 18/40 - Health Probes in Kubernetes
 
-## Check out the video below for Day18 👇
-
-[![Day 18/40 - Health Probes in kubernetes](https://img.youtube.com/vi/x2e6pIBLKzw/sddefault.jpg)](https://youtu.be/x2e6pIBLKzw)
-
 
 ### What are probes?
 - To investigate or monitor something and to take necessary actions
