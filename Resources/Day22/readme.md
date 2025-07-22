@@ -1,8 +1,5 @@
 # Day 22/40 - Kubernetes Authentication and Authorization Simply Explained
 
-## Check out the video below for Day22 👇
-
-[![Day Day 22/40 - Kubernetes Authentication and Authorization Simply Explained ](https://img.youtube.com/vi/P0bogYEyfeI/sddefault.jpg)](https://youtu.be/P0bogYEyfeI)
 
 
 ### Authentication: Verifying Who You Are
