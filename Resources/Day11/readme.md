@@ -1,9 +1,5 @@
 # Day 11/40 - Multi Container Pod Kubernetes - Sidecar vs Init Container
 
-## Check out the video below for Day11 👇
-
-[![Day11/40 - Multi Container Pod Kubernetes - Sidecar vs Init Container](https://img.youtube.com/vi/yRiFq1ykBxc/sddefault.jpg)](https://youtu.be/yRiFq1ykBxc)
-
 
 ## Sample YAML used in the demo
 
