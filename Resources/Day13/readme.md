@@ -1,8 +1,5 @@
 # Day 13/40 - static pods, manual scheduling, labels, and selectors in Kubernetes 📘🚀
 
-## Check out the video below for Day13 👇
-
-[![Day12/40 - Kubernetes Daemonset Explained - Daemonsets, Job and Cronjob in Kubernetes](https://img.youtube.com/vi/6eGf7_VSbrQ/sddefault.jpg)](https://youtu.be/6eGf7_VSbrQ)
 
 
 Welcome to the quick reference guide for our Kubernetes Labels, Selectors, and Static Pods video! This guide will be handy as you dive deeper into Kubernetes, especially if you're starting. Let's explore these concepts in detail:
