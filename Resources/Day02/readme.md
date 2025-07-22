@@ -1,9 +1,7 @@
 # Day 2/40 - How To Dockerize a Project - CKA Full Course 2024 ☸️
 
 
-## Check out the video below for Day2 👇
 
-[![Day 2/40 - How To Dockerize a Project - CKA Full Course 2024](https://img.youtube.com/vi/nfRsPiRGx74/sddefault.jpg)](https://youtu.be/nfRsPiRGx74)
 
 ## If you would like to use docker and Kubernetes sandbox environment , you can use below:
 ```
