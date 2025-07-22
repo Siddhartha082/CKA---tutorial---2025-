@@ -1,9 +1,5 @@
 # Day 21/40 - Manage TLS Certificates In a Kubernetes Cluster 
 
-## Check out the video below for Day21 👇
-
-[![Day 21/40 - Manage TLS Certificates In a Kubernetes Cluster ](https://img.youtube.com/vi/LvPA-z8Xg4s/sddefault.jpg)](https://youtu.be/LvPA-z8Xg4s)
-
 
 ### Tls in Kubernetes 
 
