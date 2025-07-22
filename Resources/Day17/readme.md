@@ -1,9 +1,5 @@
 # Day 17/40 - Kubernetes Autoscaling | HPA Vs VPA
 
-## Check out the video below for Day17 👇
-
-[![Day17/40 - Kubernetes Autoscaling | HPA Vs VPA](https://img.youtube.com/vi/afUL5jGoLx0/sddefault.jpg)](https://youtu.be/afUL5jGoLx0)
-
 ## Autoscaling types
 
 ![image](https://github.com/user-attachments/assets/684d96ca-60b7-4496-a180-dd1ab977a9bb)
