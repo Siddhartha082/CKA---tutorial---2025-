@@ -2,9 +2,6 @@
 # Day 5/40 - What is Kubernetes - Kubernetes Architecture Explained ☸️
 
 
-## Check out the video below for Day5 👇
-
-[![Day 5/40 - What is Kubernetes - Kubernetes Architecture Explained](https://img.youtube.com/vi/SGGkUCctL4I/sddefault.jpg)](https://youtu.be/SGGkUCctL4I)
 
 
 ## Kubernetes Architecture
