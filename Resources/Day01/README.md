@@ -1,9 +1,6 @@
 # Day 1/40 - Docker Tutorial For Beginners 🐳 - Docker Fundamentals - CKA Full Course 2024 ☸️
 
 
-## Check out the video below for Day1 👇
-
-[![Day1/40 - Docker Tutorial For Beginners](https://img.youtube.com/vi/ul96dslvVwY/sddefault.jpg)](https://youtu.be/ul96dslvVwY)
 
 
 
