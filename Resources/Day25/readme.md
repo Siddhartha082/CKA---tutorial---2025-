@@ -1,9 +1,6 @@
 
 # Day 25/40 - Kubernetes Service Account - RBAC Continued
 
-## Check out the video below for Day25 👇
-
-[![Day 25/40 - Kubernetes Service Account - RBAC Continued ](https://img.youtube.com/vi/k2iCq7IlMKM/sddefault.jpg)](https://youtu.be/k2iCq7IlMKM)
 
 ### Service account in Kubernetes
 
